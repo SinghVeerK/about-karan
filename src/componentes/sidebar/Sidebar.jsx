@@ -58,8 +58,8 @@ const Sidebar = () => {
     <BrowserRouter>
     <Routes>
       <Route element={<Layout />} path="/">
+        <Route path="/about-karan" element={<Home/>}/>
         <Route path="/" element={<Home/>}/>
-        <Route path="/home" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path="/service" element={<Service/>}/>
         <Route path="/resume" element={<Resume/>}/>

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import Aboutbox from './Aboutboxes'
-import Dot from '../../components/Dot'
+// import Dot from '../../components/Dot'
 
 const About = () => {
   return (
@@ -22,13 +22,13 @@ const About = () => {
                   <span className="skills__number">90%</span>                
               </div>
               <div className="skill__bar">
-              <span className='skill-dot'>
+              {/* <span className='skill-dot'>
                     {
                       Array.from(new Array(5)).map((_, index) => {
                         return <Dot key={index} shade={index>1 ? "red" : "black"} />
                       })
                     }  
-                  </span>
+                  </span> */}
                 <span className="skills__percentage development"></span>
               </div>
             </div>

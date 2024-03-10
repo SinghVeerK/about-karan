@@ -1,9 +1,9 @@
 export const navLinksMetaData = {
-    home: {
-        id: 1,
-        route: "/home",
-        icon: <i className="icon-home"></i>
-    },
+    // home: {
+    //     id: 1,
+    //     route: "/home",
+    //     icon: <i className="icon-home"></i>
+    // },
     about: {
         id: 2,
         route: "/about",
