@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/about-karan/static/css/main.c39408c6.css",
-    "main.js": "/about-karan/static/js/main.96e6e30c.js",
+    "main.css": "/about-karan/static/css/main.b842af5c.css",
+    "main.js": "/about-karan/static/js/main.cea34ac4.js",
     "static/media/rocket.png": "/about-karan/static/media/rocket.ac739ee326e2f73cd1fa.png",
     "static/media/user1.png": "/about-karan/static/media/user1.aa0e87225482e982804e.png",
     "static/media/hands-hold-gift.png": "/about-karan/static/media/hands-hold-gift.7fdf69670def91d1a969.png",
@@ -16,11 +16,11 @@
     "static/media/ui.png": "/about-karan/static/media/ui.431f34b09cacfab65828.png",
     "static/media/mockup.png": "/about-karan/static/media/mockup.8cd0fd7673e04214619d.png",
     "index.html": "/about-karan/index.html",
-    "main.c39408c6.css.map": "/about-karan/static/css/main.c39408c6.css.map",
-    "main.96e6e30c.js.map": "/about-karan/static/js/main.96e6e30c.js.map"
+    "main.b842af5c.css.map": "/about-karan/static/css/main.b842af5c.css.map",
+    "main.cea34ac4.js.map": "/about-karan/static/js/main.cea34ac4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c39408c6.css",
-    "static/js/main.96e6e30c.js"
+    "static/css/main.b842af5c.css",
+    "static/js/main.cea34ac4.js"
   ]
 }
