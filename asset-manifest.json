@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/about-karan/static/css/main.c39408c6.css",
+    "main.js": "/about-karan/static/js/main.96e6e30c.js",
+    "static/media/rocket.png": "/about-karan/static/media/rocket.ac739ee326e2f73cd1fa.png",
+    "static/media/user1.png": "/about-karan/static/media/user1.aa0e87225482e982804e.png",
+    "static/media/hands-hold-gift.png": "/about-karan/static/media/hands-hold-gift.7fdf69670def91d1a969.png",
+    "static/media/walkthrough.png": "/about-karan/static/media/walkthrough.32c62412c3868dda0d2d.png",
+    "static/media/light-bulb.png": "/about-karan/static/media/light-bulb.952946fa2f4e7b37f9d1.png",
+    "static/media/kv.jpg": "/about-karan/static/media/kv.768147a874fb2d792cdc.jpg",
+    "static/media/onboard.webp": "/about-karan/static/media/onboard.ef14a48175bba3d12005.webp",
+    "static/media/photo.png": "/about-karan/static/media/photo.81ce5b0f3cdcc7db0cee.png",
+    "static/media/branding.png": "/about-karan/static/media/branding.f7532c69defd6573431d.png",
+    "static/media/female.png": "/about-karan/static/media/female.6c17bbddcd2b1b9f22c2.png",
+    "static/media/wd.png": "/about-karan/static/media/wd.4bafd2ff674d771ad64e.png",
+    "static/media/ui.png": "/about-karan/static/media/ui.431f34b09cacfab65828.png",
+    "static/media/mockup.png": "/about-karan/static/media/mockup.8cd0fd7673e04214619d.png",
+    "index.html": "/about-karan/index.html",
+    "main.c39408c6.css.map": "/about-karan/static/css/main.c39408c6.css.map",
+    "main.96e6e30c.js.map": "/about-karan/static/js/main.96e6e30c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39408c6.css",
+    "static/js/main.96e6e30c.js"
+  ]
+}
